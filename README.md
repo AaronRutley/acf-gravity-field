@@ -2,7 +2,7 @@
 
 ### Description
 
-Simple Gravity Forms Field add on for ACF v5 only.
+Simple add on for Advanced Custom Fields for a Gravity Forms Field (ACF v5 only).
 
 ### Compatibility
 
