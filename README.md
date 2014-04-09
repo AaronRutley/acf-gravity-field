@@ -1,14 +1,8 @@
------------------------
-
-# ACF Gravity Forms Field
-
-DESCRIPTION
-
------------------------
+# ACF Gravity Forms Field (v5 only)
 
 ### Description
 
-Simple Gravity Forms Field for ACF v5
+Simple Gravity Forms Field add on for ACF v5 only.
 
 ### Compatibility
 
